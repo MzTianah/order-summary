@@ -11,7 +11,7 @@ body {
   background-color: hsl(225, 100%, 94%);
   background-image: url("../images/desktop.svg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 45%;
   display: flex;
   align-items: center;
   justify-content: center;
